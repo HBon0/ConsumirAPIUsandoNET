@@ -1,0 +1,16 @@
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.exe
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.deps.json
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.runtimeconfig.json
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.runtimeconfig.dev.json
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.dll
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ref\ConsumirAPI.dll
+C:\Proyectos\ConsumirAPI\ConsumirAPI\bin\Debug\net5.0\ConsumirAPI.pdb
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.csproj.AssemblyReference.cache
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.AssemblyInfoInputs.cache
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.AssemblyInfo.cs
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.dll
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ref\ConsumirAPI.dll
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.pdb
+C:\Proyectos\ConsumirAPI\ConsumirAPI\obj\Debug\net5.0\ConsumirAPI.genruntimeconfig.cache

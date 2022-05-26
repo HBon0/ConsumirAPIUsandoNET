@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsumirAPI/1.0.0": {
+        "runtime": {
+          "ConsumirAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumirAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
